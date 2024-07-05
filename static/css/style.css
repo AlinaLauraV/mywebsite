@@ -695,8 +695,8 @@ a:hover {
 @media (max-width: 1024px) {
     .background {
         background: linear-gradient(
-                rgba(110, 108, 108, 0.8),
-                rgba(110, 108, 108, 0.8)
+                rgba(110, 108, 108, 0),
+                rgba(110, 108, 108, 0.12)
             ),
             url("../images/jeshoots-com-pUAM5hPaCRI-unsplash.jpg") center;
         background-size: cover;
