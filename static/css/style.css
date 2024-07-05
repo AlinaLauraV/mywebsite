@@ -298,8 +298,8 @@ hr {
 /* Projects section*/
 #projects {
     background: linear-gradient(
-        rgba(212, 207, 205, 0.215),
-        rgba(212, 207, 205, 0.215)
+        rgba(110, 108, 109, 0.1),
+        rgba(252, 249, 249, 0)
         ),
         url("../images/projects2.jpg");
     background-repeat: no-repeat;
